@@ -30,7 +30,7 @@
         <div class="menu medium-8 columns">
           <nav class="menu-head">
             <ul>
-              <li><a href="./">Home</a></li>
+              <li><a href="./">Homee</a></li>
               <li><a class="scroll" href="#action">Actions</a></li>
               <li><a class="scroll" href="#projets">Projets</a></li>
               <li><a class="scroll" href="#references">Références</a></li>
